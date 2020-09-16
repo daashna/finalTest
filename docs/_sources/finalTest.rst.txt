@@ -1,0 +1,7 @@
+finalTest module
+================
+
+.. automodule:: finalTest
+   :members:
+   :undoc-members:
+   :show-inheritance:
